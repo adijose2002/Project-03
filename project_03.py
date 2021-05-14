@@ -6,7 +6,6 @@ File: project_03.py
    In this project I will work with (a fragment) of the phylogenetic Tree of Life, which will be presented in the form of a Python dictionary. Each entry in the dictionary will consist of a string key giving the name of a taxon, and a string value giving the name of the immediate parent of that taxon. I will write a series of functions that can give back information about the tree.
    
 @author:    <Adithya Jose>
-UIC NetID:  <668871768>
 Due Date:   <12/04/2020>
 """
 
